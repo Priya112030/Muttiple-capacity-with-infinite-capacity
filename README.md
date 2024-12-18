@@ -30,6 +30,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 Developed by : Priya.B
 Register number : 24900803
 ```
+```
 import math
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time=float(input("Enter the mean  inter service time of Lathe Machine (in secs) :  "))
@@ -62,8 +63,8 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("--------------------------------------------------------------")
 ```
-```
 
+ 
 ## Output :
 ![Screenshot 2024-12-18 133236](https://github.com/user-attachments/assets/2f46a8d9-52e5-4989-a798-9efc44f7b9df)
 
